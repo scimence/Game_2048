@@ -1,5 +1,5 @@
 # Game_2048
-Game_2048
+Game_2048 适配中英文、适配所有分辨率
 
 ![1](https://raw.githubusercontent.com/scimence/Game_2048/master/pic2/lancher_192x192.png)
 ![2](https://raw.githubusercontent.com/scimence/Game_2048/master/pic2/MuMu20190822165913.png)
